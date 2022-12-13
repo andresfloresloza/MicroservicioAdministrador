@@ -1,0 +1,17 @@
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\bin\Debug\net6.0\Application.Administrador.deps.json
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\bin\Debug\net6.0\Application.Administrador.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\bin\Debug\net6.0\Application.Administrador.pdb
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\bin\Debug\net6.0\Domain.Administrador.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\bin\Debug\net6.0\SharedKernel.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\bin\Debug\net6.0\Domain.Administrador.pdb
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\bin\Debug\net6.0\SharedKernel.pdb
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\Application.Administrador.csproj.AssemblyReference.cache
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\Application.Administrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\Application.Administrador.AssemblyInfoInputs.cache
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\Application.Administrador.AssemblyInfo.cs
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\Application.Administrador.csproj.CoreCompileInputs.cache
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\Application.Administrador.csproj.CopyComplete
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\Application.Administrador.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\refint\Application.Administrador.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\Application.Administrador.pdb
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Application.Administrador\obj\Debug\net6.0\ref\Application.Administrador.dll

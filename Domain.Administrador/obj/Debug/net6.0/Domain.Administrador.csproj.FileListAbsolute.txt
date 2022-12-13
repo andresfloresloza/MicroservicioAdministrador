@@ -1,0 +1,15 @@
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\bin\Debug\net6.0\Domain.Administrador.deps.json
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\bin\Debug\net6.0\Domain.Administrador.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\bin\Debug\net6.0\Domain.Administrador.pdb
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\bin\Debug\net6.0\SharedKernel.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\bin\Debug\net6.0\SharedKernel.pdb
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\Domain.Administrador.csproj.AssemblyReference.cache
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\Domain.Administrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\Domain.Administrador.AssemblyInfoInputs.cache
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\Domain.Administrador.AssemblyInfo.cs
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\Domain.Administrador.csproj.CoreCompileInputs.cache
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\Domain.Administrador.csproj.CopyComplete
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\Domain.Administrador.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\refint\Domain.Administrador.dll
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\Domain.Administrador.pdb
+C:\Users\Andres Flores\OneDrive - Universidad Núr\Escritorio\MicroservicioAdministrador\Domain.Administrador\obj\Debug\net6.0\ref\Domain.Administrador.dll

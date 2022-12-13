@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h8v1z3j5TQAyEY3PP40f3JFf97/c/30eK10t5lYhXhj7sRvZl09+wACe7BDZq/qEp4PgtYEZr4ZuMaFoBIdGCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andres Flores\\OneDrive - Universidad Núr\\Escritorio\\MicroservicioAdministrador\\Domain.Administrador\\Domain.Administrador.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres Flores\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\Andres Flores\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
